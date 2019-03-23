@@ -6,7 +6,7 @@ namespace HelloWorld
         static void Main() 
         {
             Console.WriteLine("สวัสดีชาวโลก!");
-            Console.WriteLine(Natcha Pongkasikit");
+            Console.WriteLine("ทำการบ้านส่งอาจารย์");
 
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
